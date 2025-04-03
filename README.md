@@ -1,3 +1,3 @@
 # git-demo
 this is my first repository <br>
-Author - SHISHIR CHAUHAN
+Author - SHISHIR CHAUHAN (sumit)
